@@ -1,1 +1,1 @@
-(* juste un commentaire qui sert à rien *)
+(* juste un commentaire qui ne sert à rien *)
